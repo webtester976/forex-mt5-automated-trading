@@ -1,0 +1,8 @@
+{
+  "name": "Forex MT5 Automated Trading SaaS",
+  "description": "Production-ready subscription-based automated Forex trading platform integrated with MetaTrader 5 (MT5).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
