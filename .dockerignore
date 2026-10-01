@@ -1,0 +1,9 @@
+node_modules
+.git
+.env
+dist
+*.log
+.DS_Store
+.system_generated
+.aistudio
+scripts
