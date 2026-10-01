@@ -7789,6 +7789,7 @@ async function startServer() {
   const allowedOrigins = [
     "https://forex-mt5-automated-trading.pages.dev",
     "https://forex-mt5-api.onrender.com",
+    "https://webtester976.github.io",
     process.env.FRONTEND_CUSTOMER_URL,
     process.env.FRONTEND_ADMIN_URL,
     process.env.APP_URL,
